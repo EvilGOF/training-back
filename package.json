@@ -1,6 +1,6 @@
 {
-  "author": "EvilGOF",
   "name": "fcc-learn-npm-package-json",
+  "author": "EvilGOF",
   "dependencies": {
     "express": "^4.14.0"
   },
